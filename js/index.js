@@ -68,3 +68,23 @@ function buscador_interno() {
   }
 
     }
+
+
+
+// Funcion comparar si es verdadero o falso. Devuelve true o false. 
+
+let compare = (a, b) => { return a > b }
+console.log(compare(10, 16));
+
+//
+
+// function ejecuta (parametro, numero){
+//     parametro(numero)
+    
+// }
+// ejecuta(console.log, "catv");
+
+//Metodo repetidor para ARRAYSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+
+const fechaHoy = new Date("2023-03")
+console.log(fechaHoy);
